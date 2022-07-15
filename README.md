@@ -1,4 +1,2 @@
 # PicoRingo
-Experimental game for learn how to use pico-
- 
- 
+Experimental game for learn how to use pico.

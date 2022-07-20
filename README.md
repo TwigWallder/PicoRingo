@@ -1,3 +1,3 @@
 # PicoRingo
 Experimental game for learn how to use pico.
-Adventure/2
+Adventure/2D
